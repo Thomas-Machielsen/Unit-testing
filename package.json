@@ -1,0 +1,19 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "A small example how to do unit-testing for reference",
+  "main": "jsonClient.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thomas-Machielsen/Unit-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thomas-Machielsen/Unit-testing/issues"
+  },
+  "homepage": "https://github.com/Thomas-Machielsen/Unit-testing#readme"
+}
